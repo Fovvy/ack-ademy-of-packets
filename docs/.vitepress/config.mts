@@ -27,11 +27,11 @@ export default defineConfig({
             }
         ],
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/Fovvy/ack-ademy-of-packets' }
+            { icon: 'github', link: 'https://github.com/pararchy/ack-ademy-of-packets' }
         ],
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2026 Fovvy'
+            copyright: 'Copyright © 2026 pararchy'
         }
     },
     appearance: 'dark'

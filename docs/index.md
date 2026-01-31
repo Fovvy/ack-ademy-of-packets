@@ -14,7 +14,7 @@ hero:
       link: /01-ip-addressing/
     - theme: alt
       text: View the Handshake
-      link: https://github.com/Fovvy/ack-ademy-of-packets
+      link: https://github.com/pararchy/ack-ademy-of-packets
 
 features:
   - icon: 🕯️

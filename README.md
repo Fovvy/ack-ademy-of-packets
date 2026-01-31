@@ -6,7 +6,7 @@ Welcome to **The Ack-ademy of packets**, a public sanctuary built to map the uns
 
 ## 🌐 The Live Sanctuary
 Visit the hosted version of the academy here:
-[**Live Site: The Ack-ademy of packets**](https://fovvy.github.io/ack-ademy-of-packets/)
+[**Live Site: The Ack-ademy of packets**](https://pararchy.github.io/ack-ademy-of-packets/)
 
 ---
 
@@ -28,7 +28,7 @@ Ensure you have Node.js installed on your machine.
 
 ```bash
 # Clone the essence
-git clone https://github.com/Fovvy/ack-ademy-of-packets.git
+git clone https://github.com/pararchy/ack-ademy-of-packets.git
 cd ack-ademy-of-packets
 
 # Install the dependencies
